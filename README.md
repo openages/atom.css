@@ -1,7 +1,7 @@
 
 <p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="200" src="https://s1.ax1x.com/2018/11/25/Fkb1F1.png" alt="atom.css logo"></a></p>
 
-# <p align="center"> atom.css </p>
+# <p align="center"> Atom.css </p>
 
 _<p align="center">A atom-style library of CSS atomic elements. To build app faster and more flexible!</p>_
 
